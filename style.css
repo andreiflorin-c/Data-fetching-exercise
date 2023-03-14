@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#dataCountDown {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+#dataDiv {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    height: 25%;
+    width: 50%;
+    background-color: cyan;
+    padding: 20px;
+}
